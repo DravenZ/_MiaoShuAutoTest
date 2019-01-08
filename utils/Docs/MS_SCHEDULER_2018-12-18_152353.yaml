@@ -1,0 +1,21 @@
+http://dev.ms.scheduler.sjnc.com:
+  /api/job/cron:
+    corn:
+    appName:
+    taskId:
+    callbackURL:
+    jsonParam:
+    needCallback:
+    replaceOnExist:
+    retry:
+  /api/job/once:
+    triggerDateTime:
+    appName:
+    taskId:
+    callbackURL:
+    jsonParam:
+    needCallback:
+    replaceOnExist:
+    retry:
+  /api/job/repeat:
+    repeat:

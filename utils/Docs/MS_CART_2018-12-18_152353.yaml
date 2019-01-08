@@ -1,0 +1,26 @@
+http://dev.ms.cart.sjnc.com:
+  /api/freight/calc:
+    pcodes:
+    amounts:
+    addressId:
+    buyerId:
+    userType:
+  /mobile/cart/add:
+    pcode:
+    amount:
+  /mobile/cart/balance:
+    cartIds:
+    addressId:
+  /mobile/cart/batch-delete:
+    cartIds:
+  /mobile/cart/delete:
+    cartId:
+  /mobile/cart/editAmount:
+    cartId:
+    amount:
+  /mobile/cart/list:
+    type:
+  /mobile/cart/purchase:
+    pcode:
+    amount:
+    addressId:
