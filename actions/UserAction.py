@@ -922,10 +922,8 @@ if __name__ == '__main__':
     # us._admin_audit_list('1', '20', '4', '18382373185', '2')
     # us._admin_audit_upload()
     # us._admin_audit_pass('127', '1210', 'https://dnkj-family-farm-1.oss-cn-huhehaote.aliyuncs.com/data/ms-user/applyMa'
-    #                      'terials/1544852604402.png?Expires=1544852897&OSSAccessKeyId=LTAIln07EgYJRc0Z&S''ignature=jTDa'
-    #                      '0Bk1zJljncu04ijZ7kE73rA%3D', 'https://dnkj-family-farm-1.oss-''cn-huhehaote.aliyuncs.com/'
-    #                      'data/ms-user/applyMaterials/1544852604402.png?Expires=1544852897&OSSAccessKeyId=LTAIln07EgYJ'
-    #                      'Rc0Z&Signature=jTDa0Bk1zJljncu04ijZ7kE73rA%3D', '付国超', '1', '1994-01-14',
+    #                      'terials/1544852604402.png?Expires=1544852897&OSSAccessKeyId=''ignature=', ?Expires=1544852897&OSSAccessKeyId='
+    #                      '&Signature=%3D', '付国超', '1', '1994-01-14',
     #                      '513822199409147688', '11', '11101', '1101104', '大农科技')
     # us._admin_audit_refuse('119', '1210', '信息不完整')
     # us._admin_audit_detail('127', '1210')
